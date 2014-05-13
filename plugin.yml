@@ -1,0 +1,10 @@
+name: EasyMenu
+main: NomarTheHero.EasyMenu
+version: 1.1
+author: NomarTheHero
+commands:
+   menu:
+      description: Opens the Menu.
+      usage: /Menu [get] - Adding get places an item in your inventory.
+      permission: easymenu.open
+      permission-message: You don't have permission to do this.

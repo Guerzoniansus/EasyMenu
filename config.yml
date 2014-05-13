@@ -1,0 +1,21 @@
+#DONT TOUCH DONT TOUCH DONT TOUCH
+version: 1.1
+#DONT TOUCH DONT TOUCH DONT TOUCH
+
+#Make sure the names are inside '' or the plugin will behave unexpected!
+#To use color codes, use % and the character for the color. Also supports formats
+#Commands are currently not used
+#"None" just means it's nothing yet. Please dont leave it empty.
+
+items:
+  slot5:
+    type: Cooked_chicken
+    name: '%3%lHeal and Feed'
+    message: '%6Restored Health and Hunger'
+    command: none
+  slot6:
+    type: Apple
+    name: '%3%lApple'
+    message: 'none'
+    command: none
+    
